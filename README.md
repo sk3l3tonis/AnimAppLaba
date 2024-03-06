@@ -15,15 +15,15 @@
 
 #### В первом активити анимация была написана в виде кода, без использования сторонних библиотек, используя такие свойства как:
 
-*.setAlpha
-*.alpha
-*.setDuration
-*.setStartDelay
+* .setAlpha
+* .alpha
+* .setDuration
+* .setStartDelay
 
 #### Во втором активити анимация была написана в XML c использованием Tween-анимации. Использовались такие элементы как:
 
-*<scale/>
-*<rotate/>
-*<alpha/>
-*<translate/>
+* <scale/>
+* <rotate/>
+* <alpha/>
+* <translate/>
 
